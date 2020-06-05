@@ -29,9 +29,10 @@ author:  # change following line to your infomation.
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-git
-    - name: icon-docker
+    - name: fa-docker
   skill_icon2:
-    - name: fa-python
+    - name: icon-python
+    - name: icon-java-bold
     - name: fa-linux
   desc: Automation Engineer  # Describe yourself.
 
