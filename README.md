@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Atlas7/atlas7.github.io.svg?branch=master)](https://travis-ci.org/Atlas7/atlas7.github.io)
+[![Build Status](https://travis-ci.org/theanilbajar/theanilbajar.github.io.svg?branch=master)](https://travis-ci.org/theanilbajar/theanilbajar.github.io)
 
 ## References
 1. [https://atlas7.github.io/](https://atlas7.github.io/)
