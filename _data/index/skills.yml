@@ -5,5 +5,5 @@ id : cs
 #aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
 #percentage: 100, 35, 65, 80, 70, 90, 50
 
-aspects: Curiosity, Blogging, Java, JavaScript, Python, SQL, Automation, Django, Heroku, Machine Learning, Tensorflow, IoT, Docker, GitLab, GitHub
-percentage: 100, 80, 70, 50, 80, 70, 90, 60, 70, 70, 60, 40, 50, 60, 70
+aspects: Blogging, Java, JavaScript, Python, SQL, Automation, Django, Machine Learning, Tensorflow, GitLab/Docker/Heroku, GitHub
+percentage: 60, 70, 50, 80, 70, 90, 70, 70, 70, 60, 70
