@@ -45,6 +45,6 @@
 #  i18n:
   url: https://github.com/theanilbajar/voice-form-skill
   gh_user: theanilbajar
-  repo: theanilbajar
+  repo: voice-form-skill
   img: /static/assets/img/landing/avatar.jpg
   desc: A Mycrofit Skill to fill the form using your own voice, not typing.
