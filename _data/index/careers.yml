@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Meditab Software Pvt. Ltd.
+    detail: Accenture
   desc:
     detail: >
       Working on Databricks and Python based big data pipelines in Finance domain.
