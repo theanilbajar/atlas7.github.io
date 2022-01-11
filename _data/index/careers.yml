@@ -4,11 +4,23 @@
     detail: Meditab Software Pvt. Ltd.
   desc:
     detail: >
-      Automation Engineer
+      Working on Databricks and Python based big data pipelines in Finance domain.
   date:
-    detail: Jul 2017 - Present, India
+    detail: Jul 2021 - Present, India
   job:
-    detail: Automation Engineer
+    detail: Application Development Senior Analyst
+  icon: fa-plus-square
+  
+- name:
+    detail: Meditab Software Pvt. Ltd.
+  desc:
+    detail: >
+      Worked on Java, Python, JavaScript, and Machine Learning related projects.
+     
+  date:
+    detail: Jul 2017 - July 2021
+  job:
+    detail: Programmer Analyst 
   icon: fa-plus-square
 
 - name:
