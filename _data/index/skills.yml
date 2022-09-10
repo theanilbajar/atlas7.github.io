@@ -1,9 +1,0 @@
-# skills section data
-
-label: Ability
-id : cs
-#aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
-#percentage: 100, 35, 65, 80, 70, 90, 50
-
-aspects: Blogging, Java, Javascript, Python, SQL, Automation, Django, Machine Learning, Tensorflow, GitLab/Docker, GitHub,Cloud,Big Data
-percentage: 60, 70, 50, 90, 70, 90, 70, 70, 70, 60, 70, 60, 60
